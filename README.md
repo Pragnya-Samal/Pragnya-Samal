@@ -25,6 +25,7 @@ Hi, I'm Pragnya Samal
     <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
 </p>
 
+
 ---
 
 
@@ -79,11 +80,13 @@ Hi, I'm Pragnya Samal
 ---
 ---
 
+---
+
 # 📊 GitHub Statistics
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Pragnya-Samal&show_icons=true&theme=rose_pine&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Pragnya-Samal&show_icons=true&theme=default&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA&border_color=D8DEE4&hide_border=false"
     alt="Pragnya's GitHub Stats"
     width="500"
   />
@@ -91,17 +94,17 @@ Hi, I'm Pragnya Samal
 
 <p align="left">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Pragnya-Samal&theme=rose_pine&hide_border=true"
-    alt="Pragnya's GitHub Streak"
-    width="530"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Pragnya-Samal&theme=default&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A&border=D8DEE4"
+    alt="Pragnya's GitHub Contribution Streak"
+    width="500"
   />
 </p>
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragnya-Samal&layout=compact&theme=rose_pine&hide_border=true"
-    alt="Most Used Languages"
-    width="350"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragnya-Samal&layout=compact&theme=default&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&border_color=D8DEE4&hide_border=false&hide=PHP,Raku,Prolog&langs_count=10"
+    alt="Pragnya's Most Used Languages"
+    width="400"
   />
 </p>
 
